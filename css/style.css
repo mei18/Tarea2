@@ -1,0 +1,23 @@
+ .row-info{
+ 	margin-left: 3%;
+ }
+
+ @media (min-width: 992px){
+  	.html {
+  		width: 16%;
+  		float: left;
+  	}
+  	.css, .btp, .ref, .exp, .faq{
+  		width: 16%;
+  		float: left;
+  		margin-left: 2%;
+  	}
+ }
+
+ @media (min-width: 768px) and (max-width: 991px) {
+	.row{
+		width: 46%;
+		float: left;
+		margin-left: 3%;
+	}
+}
